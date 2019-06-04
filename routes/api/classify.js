@@ -139,7 +139,7 @@ const asyncHandler = fn => (req, res, next) =>
     },
  *      "msg"  : "成功"   // 提示信息
  *  }
- * @apiSampleRequest http://localhost:3001/api/classify/find
+ * @apiSampleRequest http://find.du-u.top/api/classify/find
  * @apiVersion 1.0.0
  */
 router.get('/find',asyncHandler(async (req, res, next) => {

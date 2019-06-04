@@ -62,7 +62,7 @@ const asyncHandler = fn => (req, res, next) =>
  *       }
  *      "msg":"成功"   // 提示信息
  *  }
- * @apiSampleRequest http://localhost:3001/api/address/show
+ * @apiSampleRequest http://find.du-u.top/api/address/show
  * @apiVersion 1.0.0
  */
 router.get('/show',asyncHandler(async (req, res, next) => {
@@ -120,7 +120,7 @@ router.get('/show',asyncHandler(async (req, res, next) => {
  *       }
  *      "msg":"成功"   // 提示信息
  *  }
- * @apiSampleRequest http://localhost:3001/api/address/selectById
+ * @apiSampleRequest http://find.du-u.top/api/address/selectById
  * @apiVersion 1.0.0
  */
 router.get('/selectById',asyncHandler(async (req, res, next) => {
@@ -154,7 +154,7 @@ router.get('/selectById',asyncHandler(async (req, res, next) => {
  *      "data" : {id:13} // 返回删除的地址ID
  *      "msg"  :"成功"   // 提示信息
  *  }
- * @apiSampleRequest http://localhost:3001/api/address/deleteById
+ * @apiSampleRequest http://find.du-u.top/api/address/deleteById
  * @apiVersion 1.0.0
  */
 router.get('/deleteById',asyncHandler(async (req, res, next) => {
@@ -204,7 +204,7 @@ router.get('/deleteById',asyncHandler(async (req, res, next) => {
  *       }
  *      "msg":"成功"   // 提示信息
  *  }
- * @apiSampleRequest http://localhost:3001/api/address/selectByUid
+ * @apiSampleRequest http://find.du-u.top/api/address/selectByUid
  * @apiVersion 1.0.0
  */
 router.get('/selectByUid',asyncHandler(async (req, res, next) => {
@@ -271,7 +271,7 @@ router.get('/selectByUid',asyncHandler(async (req, res, next) => {
  *       }
  *      "msg":"成功"   // 提示信息
  *  }
- * @apiSampleRequest http://localhost:3001/api/address/save
+ * @apiSampleRequest http://find.du-u.top/api/address/save
  * @apiVersion 1.0.0
  */
 router.post('/save',asyncHandler(async (req, res, next) => {
@@ -341,7 +341,7 @@ router.post('/save',asyncHandler(async (req, res, next) => {
  *       }
  *      "msg":"成功"   // 提示信息
  *  }
- * @apiSampleRequest http://localhost:3001/api/address/updateById
+ * @apiSampleRequest http://find.du-u.top/api/address/updateById
  * @apiVersion 1.0.0
  */
 router.post('/updateById',asyncHandler(async (req, res, next) => {
@@ -380,7 +380,7 @@ router.post('/updateById',asyncHandler(async (req, res, next) => {
  *      "data" : 1     // 修改的地址ID
  *      "msg":"成功"    // 提示信息
  *  }
- * @apiSampleRequest http://localhost:3001/api/address/updateByIsDefault
+ * @apiSampleRequest http://find.du-u.top/api/address/updateByIsDefault
  * @apiVersion 1.0.0
  */
 router.post('/updateByIsDefault',asyncHandler(async (req, res, next) => {

@@ -142,3 +142,39 @@
 
 [info] [2019-06-04 16:22:19] ::1 - GET / token:undefined - - - ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
 
+[info] [2019-06-04 16:22:57] ::ffff:127.0.0.1 - GET / token:undefined 302 - 11.208 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-06-04 16:23:08] ::1 - GET / token:undefined 302 - 3.104 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-06-04 16:33:37] ::1 - GET / token:undefined 302 - 2.943 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-06-04 16:45:37] ::1 - GET / token:undefined 302 - 12.338 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-06-04 16:55:41] ::1 - GET / token:undefined 500 - 16.140 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-06-04 16:55:42] ::1 - GET /favicon.ico token:undefined 304 http://localhost:3001/ 1.793 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-06-04 16:55:44] ::1 - GET / token:undefined 500 - 1.515 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-06-04 16:55:44] ::1 - GET /favicon.ico token:undefined 200 http://localhost:3001/ 2.512 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-06-04 16:56:00] ::1 - GET / token:undefined 500 - 15.642 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-06-04 16:56:00] ::1 - GET /favicon.ico token:undefined 200 http://localhost:3001/ 1.547 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-06-04 16:56:01] ::1 - GET / token:undefined 500 - 1.872 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-06-04 16:56:01] ::1 - GET /favicon.ico token:undefined 200 http://localhost:3001/ 0.494 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-06-04 16:56:02] ::1 - GET / token:undefined 500 - 0.974 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-06-04 16:56:02] ::1 - GET /favicon.ico token:undefined 200 http://localhost:3001/ 0.393 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-06-04 16:56:36] ::1 - GET / token:undefined 302 - 10.315 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-06-04 18:00:25] ::1 - OPTIONS /api/address/show token:undefined 200 http://find.du-u.top/apidoc/ 7.346 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-06-04 18:00:26] ::1 - OPTIONS /api/address/show token:undefined 200 http://find.du-u.top/apidoc/ 0.733 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-06-04 18:05:02] ::1 - GET /apidoc/api/address/show token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 http://localhost:3001/apidoc/ 7.421 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
