@@ -1,0 +1,334 @@
+[joke] 2019-05-09 11:09:55 ::1 - GET /api/user/show token:pyOpGVCR77n9qs6sEwqD2eJySvnGqDDkeFPD4 200 - 1299.539 ms PostmanRuntime/7.11.0 
+
+[joke] 2019-05-09 11:10:22 ::1 - POST /api/user/login?name=duguangyan1&password=111111 token:undefined 200 - 49.715 ms PostmanRuntime/7.11.0 
+
+[joke] 2019-05-09 11:10:27 ::1 - GET /api/user/show token:MvUCrZH88v3mBPf77f6gVNBRMtwoWak5g2vtNll6uDJYWpW 200 - 321.560 ms PostmanRuntime/7.11.0 
+
+[joke] 2019-05-09 11:13:41 ::1 - GET /api/user/show1 token:MvUCrZH88v3mBPf77f6gVNBRMtwoWak5g2vtNll6uDJYWpW 200 - 21.791 ms PostmanRuntime/7.11.0 
+
+[joke] 2019-05-09 11:14:00 ::1 - GET /api/user/show token:MvUCrZH88v3mBPf77f6gVNBRMtwoWak5g2vtNll6uDJYWpW 200 - 60.373 ms PostmanRuntime/7.11.0 
+
+[joke] 2019-05-09 11:14:06 ::1 - GET /api/user/show111 token:MvUCrZH88v3mBPf77f6gVNBRMtwoWak5g2vtNll6uDJYWpW 200 - 23.438 ms PostmanRuntime/7.11.0 
+
+[joke] 2019-05-09 11:14:17 ::1 - GET /api/user/show token:MvUCrZH88v3mBPf77f6gVNBRMtwoWak5g2vtNll6uDJYWpW 200 - 67.775 ms PostmanRuntime/7.11.0 
+
+[joke] 2019-05-09 11:15:04 ::1 - GET /api/user/show token:MvUCrZH88v3mBPf77f6gVNBRMtwoWak5g2vtNll6uDJYWpW 200 - 60.756 ms PostmanRuntime/7.11.0 
+
+[joke] 2019-05-09 11:17:20 ::1 - GET /api/user/show89 token:MvUCrZH88v3mBPf77f6gVNBRMtwoWak5g2vtNll6uDJYWpW 200 - 306.063 ms PostmanRuntime/7.11.0 
+
+[joke] 2019-05-09 11:17:24 ::1 - GET /api/user/show89 token:undefined 200 - 0.896 ms PostmanRuntime/7.11.0 
+
+[joke] 2019-05-09 11:17:40 ::1 - GET /api/user/show token:undefined 200 - 0.699 ms PostmanRuntime/7.11.0 
+
+[joke] 2019-05-09 11:17:57 ::1 - GET /api/ token:undefined 200 - 0.424 ms PostmanRuntime/7.11.0 
+
+[joke] 2019-05-09 11:18:01 ::1 - GET /api token:undefined 200 - 0.375 ms PostmanRuntime/7.11.0 
+
+[joke] 2019-05-09 11:18:05 ::1 - GET /api token:MvUCrZH88v3mBPf77f6gVNBRMtwoWak5g2vtNll6uDJYWpW 200 - 22.257 ms PostmanRuntime/7.11.0 
+
+[joke] 2019-05-09 11:19:07 ::1 - GET /api token:MvUCrZH88v3mBPf77f6gVNBRMtwoWak5g2vtNll6uDJYWpW msg:undefined 200 - 312.142 ms PostmanRuntime/7.11.0 
+
+[joke] 2019-05-09 11:21:25 ::1 - GET /api token:MvUCrZH88v3mBPf77f6gVNBRMtwoWak5g2vtNll6uDJYWpW msg:undefined 200 - 306.491 ms PostmanRuntime/7.11.0 
+
+[joke] 2019-05-09 11:21:55 ::1 - GET /api token:MvUCrZH88v3mBPf77f6gVNBRMtwoWak5g2vtNll6uDJYWpW msg:[object Object] 200 - 331.250 ms PostmanRuntime/7.11.0 
+
+[joke] 2019-05-09 11:24:09 ::1 - GET /api token:MvUCrZH88v3mBPf77f6gVNBRMtwoWak5g2vtNll6uDJYWpW msg:undefined 200 - 315.385 ms PostmanRuntime/7.11.0 
+
+[joke] 2019-05-09 11:27:12 ::1 - GET /api token:MvUCrZH88v3mBPf77f6gVNBRMtwoWak5g2vtNll6uDJYWpW 200 - 6555.092 ms PostmanRuntime/7.11.0 
+
+[joke] 2019-05-09 11:27:18 ::1 - GET /api token:MvUCrZH88v3mBPf77f6gVNBRMtwoWak5g2vtNll6uDJYWpW 200 - 26.501 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 11:31:53] ::1 - GET /api token:MvUCrZH88v3mBPf77f6gVNBRMtwoWak5g2vtNll6uDJYWpW 200 - 310.056 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 11:32:24] ::1 - GET /api/user/show token:MvUCrZH88v3mBPf77f6gVNBRMtwoWak5g2vtNll6uDJYWpW 200 - 345.923 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 11:32:36] ::1 - GET /api/user/show token:undefined 200 - 5.120 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 11:44:27] ::1 - GET /api/user/show token:undefined 200 - 8.167 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 11:44:37] ::1 - GET /api/user0/show token:MvUCrZH88v3mBPf77f6gVNBRMtwoWak5g2vtNll6uDJYWpW 200 - 308.393 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 11:44:51] ::1 - GET /api/user/show token:MvUCrZH88v3mBPf77f6gVNBRMtwoWak5g2vtNll6uDJYWpW 200 - 627.395 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 11:44:53] ::1 - GET /api/user/show1 token:MvUCrZH88v3mBPf77f6gVNBRMtwoWak5g2vtNll6uDJYWpW 200 - 68.452 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 11:44:57] ::1 - GET /api/user/show token:MvUCrZH88v3mBPf77f6gVNBRMtwoWak5g2vtNll6uDJYWpW 200 - 59.079 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 11:57:17] ::1 - GET /api/common/load token:undefined 200 - 6.281 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 11:58:51] ::1 - GET /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 309.396 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 13:29:18] ::1 - GET /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 79815.120 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 13:38:12] ::1 - GET /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 56890.784 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 13:38:33] ::1 - GET /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 11375.724 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 13:42:32] ::1 - GET /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 7192.371 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 13:42:54] ::1 - GET /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 314.089 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 13:47:54] ::1 - GET /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 268807.836 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 13:47:59] ::1 - GET /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 321.837 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 13:49:55] ::1 - GET /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 8498.249 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 13:58:27] ::1 - GET /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 2244.712 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 13:59:15] ::1 - GET /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 2431.233 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 13:59:23] ::1 - GET /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 307.979 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 13:59:30] ::1 - GET /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 25.175 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 13:59:49] ::1 - GET /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 314.644 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 14:00:45] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 316.978 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 14:04:35] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 320.372 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 14:06:44] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 329.876 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 14:07:54] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 30376.705 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 14:07:57] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 30.344 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 14:11:16] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS - - - ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 14:12:19] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 326.468 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 14:12:37] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 31.565 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 14:14:40] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 322.844 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 14:15:32] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 31.125 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 14:16:27] ::1 - GET /public/upload/IYjfYFfCewPVusQC1557382532311.jpg token:undefined 200 - 3.286 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-09 14:16:27] ::1 - GET /favicon.ico token:undefined 200 http://localhost:3000/public/upload/IYjfYFfCewPVusQC1557382532311.jpg 2.007 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-09 14:17:20] ::1 - GET /public/upload/IYjfYFfCewPVusQC1557382532311.jpg token:undefined 200 - 10.101 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-09 14:17:20] ::1 - GET /favicon.ico token:undefined 200 http://localhost:3000/public/upload/IYjfYFfCewPVusQC1557382532311.jpg 6.403 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-09 14:17:21] ::1 - GET /public/upload/IYjfYFfCewPVusQC1557382532311.jpg token:undefined 304 - 1.638 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-09 14:17:22] ::1 - GET /favicon.ico token:undefined 200 http://localhost:3000/public/upload/IYjfYFfCewPVusQC1557382532311.jpg 1.982 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-09 14:18:00] ::1 - GET /favicon.ico token:undefined 200 http://localhost:3000/public/upload/IYjfYFfCewPVusQC1557382532311.jpg 7.423 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-09 14:21:24] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 326.253 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 14:21:59] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 322.212 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 14:22:44] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 326.147 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 14:22:57] ::1 - GET /favicon.ico token:undefined 304 http://localhost:3000/public/upload/ST60a9KCuWkkwP1557382964947.jpg 2.607 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-09 14:26:24] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 91039.548 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 14:26:58] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 323.224 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 14:29:44] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 78209.942 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 14:30:34] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 38682.997 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 14:31:26] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 334.384 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 14:31:35] ::1 - GET /favicon.ico token:undefined 304 http://localhost:3000/public/upload/r8cBMnrsqF3EPxLL4NuvGW1557383486182.jpg 2.581 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-09 14:38:03] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 330.013 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 14:40:12] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 50.750 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 14:45:00] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 17044.863 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 14:45:45] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 36047.360 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 15:02:06] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS - - - ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 15:05:15] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 14492.567 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 15:07:22] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 314.894 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 15:07:41] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 311.960 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 15:08:30] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 338.129 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 15:08:41] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 46.590 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 15:08:58] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 332.311 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 15:09:14] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 339.024 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 15:09:37] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 349.320 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 15:10:01] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 42.447 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 15:10:15] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 340.068 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 15:11:09] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 335.837 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 15:12:38] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 345.750 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 15:13:27] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 332.621 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 15:14:27] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 2073.079 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 15:14:46] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 40.594 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 15:14:51] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 38.523 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 15:15:11] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 9358.847 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 15:15:27] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 389.858 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 15:16:04] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 334.020 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 15:16:54] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 329.277 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 15:18:37] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 345.328 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 15:20:21] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 332.325 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 15:20:30] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 336.218 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 15:22:22] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 332.655 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 15:26:03] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 343.506 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 15:35:53] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS - - - ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 15:36:54] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 550.671 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 15:37:12] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 336.966 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 15:39:43] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 17447.390 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 15:40:44] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 2946.096 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 15:41:46] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 325.865 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 15:42:57] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 332.669 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 15:43:05] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 48.955 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 15:43:55] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 28.815 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 15:44:58] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 325.408 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 15:46:58] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 112973.559 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 15:47:13] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 322.434 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 15:47:42] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 322.633 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 15:47:51] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 166.262 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 15:49:12] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 338.825 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 15:49:22] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 26.334 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 15:49:28] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 42.216 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 15:50:00] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 41.197 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 15:50:19] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 42.881 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 15:51:07] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 25.229 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 15:52:26] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 346.966 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 15:53:06] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 327.517 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 15:54:04] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 329.454 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 15:55:29] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 334.209 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 15:55:37] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 61.895 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 15:56:42] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 59.711 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 15:57:18] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 243.430 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 15:57:31] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 32.867 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 16:04:02] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 326.701 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 16:07:49] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 308.895 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 16:08:19] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 312.439 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 16:08:42] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 16441.603 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 16:12:31] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 347.499 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 16:12:53] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 349.576 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 16:14:23] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 6899.927 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 16:15:11] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 4494.283 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 16:17:29] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 313.604 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 16:17:58] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 324.494 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 16:18:16] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 - 319.154 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 16:21:26] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS - - - ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 16:26:46] ::1 - POST /api/common/load token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS - - - ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 16:31:36] ::1 - POST /api/user/login?name=duguangyan1&password=111111 token:undefined 200 - 333.462 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 16:34:12] ::1 - GET /api/user/show token:MvUCrZH88v3mBPf77f6gVNBRMtwoWak5g2vtNll6uDJYWpW 200 - 298.002 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 16:34:17] ::1 - GET /api/user/show token:MvUCrZH88v3mBPf77f6gVNBRMtwoWak5g2vtNll6uDJYWpW 200 - 312.450 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 16:34:23] ::1 - POST /api/user/login?name=duguangyan1&password=111111 token:undefined 200 - 67.265 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 16:34:47] ::1 - POST /api/user/login?name=duguangyan1&password=111111 token:undefined 200 - 48.960 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 16:34:59] ::1 - POST /api/user/login?name=duguangyan1&password=111111 token:undefined 200 - 333.175 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 16:36:37] ::1 - POST /api/common/load token:lhzsNcexlf2WfxlCaco3YIOfldU9Hk6dlyuqAQPZfwmmLKdLGxG7sZkMR 200 - 2693.112 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 16:37:27] ::1 - POST /api/common/load token:lhzsNcexlf2WfxlCaco3YIOfldU9Hk6dlyuqAQPZfwmmLKdLGxG7sZkMR 200 - 361.316 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 16:37:51] ::1 - GET /favicon.ico token:undefined 304 http://localhost:3000/public/upload/gYEnil3nMnpAkouEOFFkX1557391047525.jpg 5.002 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-09 16:37:55] ::1 - POST /api/common/load token:lhzsNcexlf2WfxlCaco3YIOfldU9Hk6dlyuqAQPZfwmmLKdLGxG7sZkMR 200 - 30.067 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 16:38:14] ::1 - POST /api/user/login?name=duguangyan1&password=111111 token:undefined 200 - 43.818 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 16:38:31] ::1 - POST /api/common/load token:gtuiF2wjeKPOeug59rPPMd6TTCYaSHtYn8n2fgC 200 - 44.535 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 16:38:46] ::1 - POST /api/user/login?name=duguangyan1&password=111111 token:undefined 200 - 54.115 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 16:39:05] ::1 - POST /api/common/load token:gtuiF2wjeKPOeug59rPPMd6TTCYaSHtYn8n2fgC 200 - 21.006 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 16:39:19] ::1 - POST /api/common/load token:8Ma9yonOtna7M2LsteY8JaIHUfkDv3CcJVoQmMxeMI27shKbPgnfHy5Zz3 200 - 50.064 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 16:39:28] ::1 - POST /api/common/load token:8Ma9yonOtna7M2LsteY8JaIHUfkDv3CcJVoQmMxeMI27shKbPgnfHy5Zz3 200 - 48.492 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 16:39:57] ::1 - GET /favicon.ico token:undefined 304 http://localhost:3000/public/upload/2uvMOq1XcrRogEr1557391168433.jpg 1.612 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-09 16:53:42] ::1 - POST /api/common/load token:8Ma9yonOtna7M2LsteY8JaIHUfkDv3CcJVoQmMxeMI27shKbPgnfHy5Zz3 200 - 344.168 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 16:56:42] ::1 - POST /api/common/load token:8Ma9yonOtna7M2LsteY8JaIHUfkDv3CcJVoQmMxeMI27shKbPgnfHy5Zz3 200 - 363.756 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 17:01:49] ::1 - POST /api/common/load token:8Ma9yonOtna7M2LsteY8JaIHUfkDv3CcJVoQmMxeMI27shKbPgnfHy5Zz3 200 - 519.834 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 17:02:22] ::1 - POST /api/common/load token:8Ma9yonOtna7M2LsteY8JaIHUfkDv3CcJVoQmMxeMI27shKbPgnfHy5Zz3 200 - 14764.098 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 17:03:01] ::1 - POST /api/user/login?name=duguangyan1&password=111111 token:undefined 200 - 334.901 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 17:03:08] ::1 - POST /api/common/load token:bELbnkmzrSlU7nSnbNO3vpVAkut37LlEW2UAokSD 200 - 56.787 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 17:54:03] ::1 - POST /api/classify/find token:bELbnkmzrSlU7nSnbNO3vpVAkut37LlEW2UAokSD 200 - 332.019 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 17:56:05] ::1 - POST /api/classify/find token:bELbnkmzrSlU7nSnbNO3vpVAkut37LlEW2UAokSD 200 - 339.397 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-09 18:04:17] ::1 - POST /api/classify/find token:bELbnkmzrSlU7nSnbNO3vpVAkut37LlEW2UAokSD 200 - 336.983 ms PostmanRuntime/7.11.0 
+

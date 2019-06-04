@@ -1,0 +1,7 @@
+{
+    "name": "众皮联小鹿快找接口文档",
+    "version": "1.0.0",
+    "description": "devBaseUrl : 【http://devapi.yidap.com】 proBaseUrl : 【http://api.yidapi.com.cn】",
+    "title": "Custom apiDoc browser title",
+    "url" : "http://localhost:3001"
+}

@@ -1,0 +1,6 @@
+[info] [2019-06-01 11:34:43] ::1 - GET / token:undefined 200 - 8.434 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-06-01 11:34:44] ::1 - GET /favicon.ico token:undefined 200 http://localhost:3000/ 1.242 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-06-01 11:44:50] ::1 - GET /api/order/show token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 http://localhost:3000/apidoc/ 690.135 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+

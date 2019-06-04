@@ -1,0 +1,312 @@
+[info] [2019-05-17 09:15:37] ::1 - POST /api/address/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 790.183 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 09:36:06] ::1 - POST /api/address/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS - - - ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 09:40:34] ::1 - POST /api/address/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 104546.022 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 09:44:01] ::1 - POST /api/address/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS - - - ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 09:46:09] ::1 - POST /api/address/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS - - - ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 09:58:21] ::1 - POST /api/address/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 540.524 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 10:00:51] ::1 - POST /api/address/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS - - - ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 10:04:04] ::1 - POST /api/address/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS - - - ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 10:06:22] ::1 - POST /api/address/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 393.758 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 10:06:35] ::1 - POST /api/address/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 90.439 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 10:06:52] ::1 - POST /api/address/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 389.212 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 10:07:28] ::1 - POST /api/address/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 380.502 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 10:07:48] ::1 - POST /api/address/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 5796.213 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 10:09:54] ::1 - POST /api/address/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 22506.367 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 10:14:52] ::1 - POST /api/address/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 253625.021 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 10:16:47] ::1 - POST /api/address/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 111731.109 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 10:17:53] ::1 - POST /api/address/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 17899.951 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 10:18:40] ::1 - POST /api/address/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 41043.625 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 10:19:12] ::1 - POST /api/address/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 27562.669 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 10:19:22] ::1 - POST /api/address/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 420.589 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 10:19:48] ::1 - POST /api/address/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 20135.159 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 10:21:01] ::1 - POST /api/address/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 29762.348 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 10:21:51] ::1 - POST /api/address/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 28520.333 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 10:23:46] ::1 - POST /api/address/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 42581.666 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 10:24:04] ::1 - POST /api/address/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 345.853 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 10:24:30] ::1 - POST /api/address/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 342.057 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 10:24:57] ::1 - POST /api/address/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 9669.415 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 10:25:16] ::1 - POST /api/address/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 345.463 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 10:26:01] ::1 - POST /api/address/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 384.764 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 10:26:33] ::1 - POST /api/address/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 23877.577 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 10:27:05] ::1 - POST /api/address/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 381.457 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 10:27:19] ::1 - POST /api/address/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 362.908 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 10:30:33] ::1 - POST /api/address/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 364.520 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 10:30:47] ::1 - POST /api/address/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 51.918 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 10:31:07] ::1 - POST /api/address/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 46.092 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 10:31:15] ::1 - POST /api/address/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 75.910 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 10:40:22] ::1 - POST /api/address/updateById token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 380.216 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 10:41:03] ::1 - POST /api/address/updateById token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 355.540 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 10:41:12] ::1 - POST /api/address/updateById token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 42.726 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 10:49:25] ::1 - POST /api/address/updateById token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 20005.881 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 10:49:59] ::1 - POST /api/address/updateById token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 18512.024 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 10:57:27] ::1 - POST /api/address/updateById token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 368.968 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 10:58:13] ::1 - POST /api/address/updateById token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 365.278 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 10:58:22] ::1 - POST /api/address/updateById token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 266.304 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 10:58:28] ::1 - POST /api/address/updateById token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 373.023 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 10:59:15] ::1 - POST /api/address/updateById token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 95.005 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 11:33:52] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 427.762 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 11:34:38] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 861.449 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 11:35:27] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 45.783 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 11:37:10] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 43.764 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 11:37:59] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 35856.117 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 11:38:05] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 3039.027 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 11:41:24] ::1 - GET /api/task/select token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 http://localhost:3000/apidoc/ 164.668 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 13:51:46] ::1 - GET /api/captcha/get-img-verify token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 500 http://localhost:3000/apidoc/ 462.705 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 13:52:19] ::1 - GET /api/captcha/get-img-verify token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 500 http://localhost:3000/apidoc/ 11892.455 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 13:53:17] ::1 - GET /api/captcha/get-img-verify token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 500 http://localhost:3000/apidoc/ 46004.006 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 13:53:47] ::1 - GET /api/captcha/get-img-verify token:undefined 200 - 2.442 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 13:54:36] ::1 - GET /api/captcha/get-img-verify token:undefined 500 - 32.502 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 13:54:58] ::1 - GET /api/captcha/get-img-verify token:undefined 500 - 9.332 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 13:55:58] ::1 - GET /api/captcha/get-img-verify token:undefined 200 http://localhost:3000/apidoc/ 15.014 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 13:59:58] ::1 - GET /api/captcha/get-img-verify token:undefined 200 http://localhost:3000/apidoc/ 215998.973 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 14:00:05] ::1 - GET /api/captcha/get-img-verify token:undefined 200 http://localhost:3000/apidoc/ 3324.469 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 14:01:45] ::1 - GET /api/captcha/get-img-verify?size=6&width=200&height=150&background= token:undefined 200 - 5028.823 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 14:05:18] ::1 - GET /api/captcha/get-img-verify token:undefined 200 http://localhost:3000/apidoc/ 23917.609 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 14:05:43] ::1 - GET /api/captcha/get-img-verify token:undefined 200 http://localhost:3000/apidoc/ 19.241 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 14:05:44] ::1 - GET /api/captcha/get-img-verify token:undefined 200 http://localhost:3000/apidoc/ 6.852 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 14:05:53] ::1 - GET /api/captcha/get-img-verify token:undefined 200 http://localhost:3000/apidoc/ 17.534 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 14:05:54] ::1 - GET /api/captcha/get-img-verify token:undefined 200 http://localhost:3000/apidoc/ 6.169 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 14:06:07] ::1 - GET /api/captcha/get-img-verify token:undefined 200 - 6.601 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 14:07:48] ::1 - GET /apidoc/vendor/bootstrap.min.css.map token:undefined 200 - 1.983 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 14:09:07] ::1 - GET /api/captcha/get-img-verify token:undefined 200 http://localhost:3000/apidoc/ 19.896 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 14:09:13] ::1 - GET /api/captcha/get-img-verify token:undefined 200 http://localhost:3000/apidoc/ 17.038 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 14:09:13] ::1 - GET /api/captcha/get-img-verify token:undefined 200 http://localhost:3000/apidoc/ 6.061 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 14:09:14] ::1 - GET /api/captcha/get-img-verify token:undefined 200 http://localhost:3000/apidoc/ 5.515 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 14:09:17] ::1 - GET /api/captcha/get-img-verify token:undefined 200 - 6.929 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 14:09:27] ::1 - GET /api/captcha/get-img-verify token:undefined 200 - 9.209 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-17 14:25:41] ::1 - GET /api/captcha/get-img-verify token:undefined 200 http://www.ptbird.cn/node-js-svg-captcha.html 34.545 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 14:26:00] ::1 - GET /api/captcha/get-img-verify token:undefined 200 - 15.101 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 14:26:00] ::1 - GET /favicon.ico token:undefined 200 http://localhost:3000/api/captcha/get-img-verify 2.509 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 14:26:10] ::1 - GET /api/captcha/get-img-verify token:undefined 200 - 7.115 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 14:26:10] ::1 - GET /favicon.ico token:undefined 304 http://localhost:3000/api/captcha/get-img-verify 4.144 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 14:26:32] ::1 - GET /api/captcha/get-img-verify token:undefined 200 - 16.674 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 14:26:33] ::1 - GET /favicon.ico token:undefined 200 http://localhost:3000/api/captcha/get-img-verify 3.507 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 14:27:10] ::1 - GET /api/captcha/get-img-verify token:undefined 200 http://localhost:3000/apidoc/ 7.253 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 14:27:19] ::1 - GET /apidoc/vendor/bootstrap.min.css.map token:undefined 304 - 3.193 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 14:27:45] ::1 - GET /api/captcha/get-img-verify token:undefined 200 - 14.594 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 14:27:45] ::1 - GET /favicon.ico token:undefined 200 http://localhost:3000/api/captcha/get-img-verify 3.952 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:00] ::1 - GET /api/captcha/get-img-verify token:undefined 200 - 17.380 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:00] ::1 - GET /favicon.ico token:undefined 200 http://localhost:3000/api/captcha/get-img-verify 3.815 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:00] ::1 - GET /api/captcha/get-img-verify token:undefined 200 - 5.391 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:01] ::1 - GET /favicon.ico token:undefined 200 http://localhost:3000/api/captcha/get-img-verify 1.764 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:01] ::1 - GET /api/captcha/get-img-verify token:undefined 200 - 5.555 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:01] ::1 - GET /favicon.ico token:undefined 200 http://localhost:3000/api/captcha/get-img-verify 1.714 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:02] ::1 - GET /api/captcha/get-img-verify token:undefined 200 - 4.779 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:02] ::1 - GET /favicon.ico token:undefined 200 http://localhost:3000/api/captcha/get-img-verify 1.995 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:02] ::1 - GET /api/captcha/get-img-verify token:undefined 200 - 6.325 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:02] ::1 - GET /favicon.ico token:undefined 200 http://localhost:3000/api/captcha/get-img-verify 1.645 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:02] ::1 - GET /api/captcha/get-img-verify token:undefined 200 - 6.033 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:03] ::1 - GET /favicon.ico token:undefined 200 http://localhost:3000/api/captcha/get-img-verify 1.877 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:03] ::1 - GET /api/captcha/get-img-verify token:undefined 200 - 8.802 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:03] ::1 - GET /favicon.ico token:undefined 200 http://localhost:3000/api/captcha/get-img-verify 1.546 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:03] ::1 - GET /api/captcha/get-img-verify token:undefined 200 - 5.386 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:03] ::1 - GET /favicon.ico token:undefined 200 http://localhost:3000/api/captcha/get-img-verify 1.735 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:04] ::1 - GET /api/captcha/get-img-verify token:undefined 200 - 5.838 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:04] ::1 - GET /favicon.ico token:undefined 200 http://localhost:3000/api/captcha/get-img-verify 1.854 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:04] ::1 - GET /api/captcha/get-img-verify token:undefined 200 - 3.478 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:04] ::1 - GET /favicon.ico token:undefined 200 http://localhost:3000/api/captcha/get-img-verify 1.803 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:38] ::1 - GET /api/captcha/get-img-verify token:undefined 200 - 18.321 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:38] ::1 - GET /favicon.ico token:undefined 200 http://localhost:3000/api/captcha/get-img-verify 3.086 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:41] ::1 - GET /api/captcha/get-img-verify token:undefined 200 - 4.304 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:42] ::1 - GET /favicon.ico token:undefined 200 http://localhost:3000/api/captcha/get-img-verify 1.823 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:42] ::1 - GET /api/captcha/get-img-verify token:undefined 200 - 5.115 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:42] ::1 - GET /favicon.ico token:undefined 200 http://localhost:3000/api/captcha/get-img-verify 1.388 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:43] ::1 - GET /api/captcha/get-img-verify token:undefined 200 - 3.940 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:43] ::1 - GET /favicon.ico token:undefined 200 http://localhost:3000/api/captcha/get-img-verify 1.741 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:43] ::1 - GET /api/captcha/get-img-verify token:undefined 200 - 6.803 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:43] ::1 - GET /favicon.ico token:undefined 200 http://localhost:3000/api/captcha/get-img-verify 2.906 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:44] ::1 - GET /api/captcha/get-img-verify token:undefined 200 - 4.995 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:44] ::1 - GET /favicon.ico token:undefined 200 http://localhost:3000/api/captcha/get-img-verify 1.682 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:44] ::1 - GET /api/captcha/get-img-verify token:undefined 200 - 5.510 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:44] ::1 - GET /favicon.ico token:undefined 200 http://localhost:3000/api/captcha/get-img-verify 1.861 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:44] ::1 - GET /api/captcha/get-img-verify token:undefined 200 - 7.420 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:45] ::1 - GET /favicon.ico token:undefined 200 http://localhost:3000/api/captcha/get-img-verify 1.650 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:45] ::1 - GET /api/captcha/get-img-verify token:undefined 200 - 5.842 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:45] ::1 - GET /favicon.ico token:undefined 200 http://localhost:3000/api/captcha/get-img-verify 1.462 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:45] ::1 - GET /api/captcha/get-img-verify token:undefined 200 - 4.343 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:45] ::1 - GET /favicon.ico token:undefined 200 http://localhost:3000/api/captcha/get-img-verify 2.533 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:45] ::1 - GET /api/captcha/get-img-verify token:undefined 200 - 6.100 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:45] ::1 - GET /favicon.ico token:undefined 200 http://localhost:3000/api/captcha/get-img-verify 1.534 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:45] ::1 - GET /api/captcha/get-img-verify token:undefined 200 - 7.912 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:45] ::1 - GET /favicon.ico token:undefined 200 http://localhost:3000/api/captcha/get-img-verify 2.951 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:45] ::1 - GET /api/captcha/get-img-verify token:undefined 200 - 3.215 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:45] ::1 - GET /favicon.ico token:undefined 200 http://localhost:3000/api/captcha/get-img-verify 1.731 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:46] ::1 - GET /api/captcha/get-img-verify token:undefined 200 - 4.380 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:46] ::1 - GET /favicon.ico token:undefined 200 http://localhost:3000/api/captcha/get-img-verify 1.590 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:46] ::1 - GET /api/captcha/get-img-verify token:undefined 200 - 9.263 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:46] ::1 - GET /favicon.ico token:undefined 200 http://localhost:3000/api/captcha/get-img-verify 1.685 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:46] ::1 - GET /api/captcha/get-img-verify token:undefined 200 - 3.423 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:46] ::1 - GET /favicon.ico token:undefined 200 http://localhost:3000/api/captcha/get-img-verify 1.573 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:46] ::1 - GET /api/captcha/get-img-verify token:undefined 200 - 4.978 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:46] ::1 - GET /favicon.ico token:undefined 200 http://localhost:3000/api/captcha/get-img-verify 3.515 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:46] ::1 - GET /api/captcha/get-img-verify token:undefined 200 - 7.891 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:46] ::1 - GET /favicon.ico token:undefined 200 http://localhost:3000/api/captcha/get-img-verify 1.574 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:47] ::1 - GET /api/captcha/get-img-verify token:undefined 200 - 3.742 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:47] ::1 - GET /favicon.ico token:undefined 200 http://localhost:3000/api/captcha/get-img-verify 1.907 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:47] ::1 - GET /api/captcha/get-img-verify token:undefined 200 - 4.792 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:47] ::1 - GET /favicon.ico token:undefined 200 http://localhost:3000/api/captcha/get-img-verify 2.181 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:47] ::1 - GET /api/captcha/get-img-verify token:undefined 200 - 5.358 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:47] ::1 - GET /favicon.ico token:undefined 200 http://localhost:3000/api/captcha/get-img-verify 1.833 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:47] ::1 - GET /api/captcha/get-img-verify token:undefined 200 - 3.253 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:47] ::1 - GET /favicon.ico token:undefined 200 http://localhost:3000/api/captcha/get-img-verify 3.383 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:58:59] ::1 - GET /favicon.ico token:undefined 304 http://localhost:3000/api/captcha/get-img-verify 1.525 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:59:05] ::1 - GET /api/captcha/get-img-verify token:undefined 200 - 5.908 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 15:59:06] ::1 - GET /favicon.ico token:undefined 200 http://localhost:3000/api/captcha/get-img-verify 3.373 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 16:01:32] ::1 - GET /api/captcha/get-img-verify token:undefined 200 - 5.000 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-17 16:01:32] ::1 - GET /favicon.ico token:undefined 200 http://localhost:3000/api/captcha/get-img-verify 3.176 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+

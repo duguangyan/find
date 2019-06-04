@@ -1,0 +1,42 @@
+[info] [2019-05-10 10:55:40] ::1 - POST /api/classify/find token:bELbnkmzrSlU7nSnbNO3vpVAkut37LlEW2UAokSD 200 - 339.732 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-10 10:56:45] ::1 - POST /api/classify/find token:bELbnkmzrSlU7nSnbNO3vpVAkut37LlEW2UAokSD 200 - 332.636 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-10 10:57:21] ::1 - POST /api/classify/find token:bELbnkmzrSlU7nSnbNO3vpVAkut37LlEW2UAokSD 200 - 330.117 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-10 11:07:48] ::1 - POST /api/classify/find token:bELbnkmzrSlU7nSnbNO3vpVAkut37LlEW2UAokSD 200 - 338.385 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-10 11:09:23] ::1 - POST /api/classify/find token:bELbnkmzrSlU7nSnbNO3vpVAkut37LlEW2UAokSD 200 - 2067.313 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-10 11:11:24] ::1 - POST /api/classify/find token:bELbnkmzrSlU7nSnbNO3vpVAkut37LlEW2UAokSD 200 - 117399.339 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-10 11:11:40] ::1 - POST /api/classify/find token:bELbnkmzrSlU7nSnbNO3vpVAkut37LlEW2UAokSD 200 - 2387.022 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-10 11:13:39] ::1 - POST /api/classify/find token:bELbnkmzrSlU7nSnbNO3vpVAkut37LlEW2UAokSD 500 - 561.530 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-10 11:14:39] ::1 - POST /api/classify/find token:bELbnkmzrSlU7nSnbNO3vpVAkut37LlEW2UAokSD 500 - 331.631 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-10 11:27:44] ::1 - POST /api/classify/find token:bELbnkmzrSlU7nSnbNO3vpVAkut37LlEW2UAokSD 500 - 355.384 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-10 11:28:12] ::1 - POST /api/classify/find token:bELbnkmzrSlU7nSnbNO3vpVAkut37LlEW2UAokSD 500 - 358.830 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-10 11:29:16] ::1 - POST /api/classify/find token:bELbnkmzrSlU7nSnbNO3vpVAkut37LlEW2UAokSD 500 - 33655.841 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-10 11:29:39] ::1 - POST /api/classify/find token:bELbnkmzrSlU7nSnbNO3vpVAkut37LlEW2UAokSD 500 - 20789.573 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-10 11:30:26] ::1 - POST /api/classify/find token:bELbnkmzrSlU7nSnbNO3vpVAkut37LlEW2UAokSD 500 - 37760.215 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-10 11:32:10] ::1 - POST /api/classify/find token:bELbnkmzrSlU7nSnbNO3vpVAkut37LlEW2UAokSD 500 - 101653.139 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-10 11:34:02] ::1 - POST /api/classify/find token:bELbnkmzrSlU7nSnbNO3vpVAkut37LlEW2UAokSD 500 - 366.671 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-10 11:37:48] ::1 - POST /api/classify/find token:bELbnkmzrSlU7nSnbNO3vpVAkut37LlEW2UAokSD 500 - 210819.278 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-10 11:38:58] ::1 - POST /api/classify/find token:bELbnkmzrSlU7nSnbNO3vpVAkut37LlEW2UAokSD 200 - 334.230 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-10 11:40:30] ::1 - POST /api/classify/find token:bELbnkmzrSlU7nSnbNO3vpVAkut37LlEW2UAokSD 200 - 337.561 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-10 11:41:05] ::1 - POST /api/classify/find token:bELbnkmzrSlU7nSnbNO3vpVAkut37LlEW2UAokSD 200 - 329.398 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-10 11:52:01] ::1 - POST /api/classify/find token:bELbnkmzrSlU7nSnbNO3vpVAkut37LlEW2UAokSD 200 - 334.751 ms PostmanRuntime/7.11.0 
+

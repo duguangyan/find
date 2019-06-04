@@ -1,0 +1,346 @@
+[info] [2019-05-15 13:47:35] ::1 - POST /api/classify/find token:bELbnkmzrSlU7nSnbNO3vpVAkut37LlEW2UAokSD 200 - 342.175 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 13:48:06] ::1 - POST /api/classfiy/find token:bELbnkmzrSlU7nSnbNO3vpVAkut37LlEW2UAokSD 200 http://localhost:3000/apidoc/ 20.103 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-15 13:48:09] ::1 - POST /api/classfiy/find token:bELbnkmzrSlU7nSnbNO3vpVAkut37LlEW2UAokSD 200 http://localhost:3000/apidoc/ 20.816 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-15 13:49:12] ::1 - POST /api/classfiy/find token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 http://localhost:3000/apidoc/ 19.627 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-15 13:49:14] ::1 - POST /api/classfiy/find token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 http://localhost:3000/apidoc/ 20.395 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-15 13:49:32] ::1 - POST /api/classfiy/find token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 http://localhost:3000/apidoc/ 322.233 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-15 13:51:41] ::1 - POST /api/classify/find token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 3481.189 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 13:53:15] ::1 - POST /api/classify/find token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 69108.219 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 13:53:21] ::1 - POST /api/classify/find token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 3590.873 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 13:54:52] ::1 - POST /api/classfiy/find token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 http://localhost:3000/apidoc/ 317.583 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-15 13:55:47] ::1 - POST /api/classify/find token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 5790.617 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 13:55:52] ::1 - POST /api/classfiy/find token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 http://localhost:3000/apidoc/ 26.551 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-15 13:56:45] ::1 - POST /api/classfiy/find token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 http://localhost:3000/apidoc/ 23.412 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-15 13:56:55] ::1 - POST /api/classfiy/find token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 http://localhost:3000/apidoc/ 25.267 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-15 13:57:22] ::1 - POST /api/classfiy/find token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 http://localhost:3000/apidoc/ 23.353 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-15 13:57:23] ::1 - POST /api/classfiy/find token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 http://localhost:3000/apidoc/ 26.196 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-15 13:57:23] ::1 - POST /api/classfiy/find token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 http://localhost:3000/apidoc/ 22.464 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-15 13:57:23] ::1 - POST /api/classfiy/find token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 http://localhost:3000/apidoc/ 37.183 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-15 13:57:23] ::1 - POST /api/classfiy/find token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 http://localhost:3000/apidoc/ 23.380 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-15 13:57:24] ::1 - POST /api/classfiy/find token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 http://localhost:3000/apidoc/ 27.866 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-15 13:57:30] ::1 - POST /api/classfiy/find token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 http://localhost:3000/apidoc/ 24.436 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-15 13:57:31] ::1 - POST /api/classfiy/find token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 http://localhost:3000/apidoc/ 24.219 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-15 13:57:31] ::1 - POST /api/classfiy/find token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 http://localhost:3000/apidoc/ 23.806 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-15 13:57:36] ::1 - POST /api/classfiy/find token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 http://localhost:3000/apidoc/ 25.040 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-15 13:57:37] ::1 - POST /api/classfiy/find token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 http://localhost:3000/apidoc/ 23.377 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-15 13:57:37] ::1 - POST /api/classfiy/find token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 http://localhost:3000/apidoc/ 24.679 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-15 13:57:37] ::1 - POST /api/classfiy/find token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 http://localhost:3000/apidoc/ 23.480 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-15 13:57:37] ::1 - POST /api/classfiy/find token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 http://localhost:3000/apidoc/ 25.500 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-15 13:57:37] ::1 - POST /api/classfiy/find token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 http://localhost:3000/apidoc/ 23.154 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-15 13:57:38] ::1 - POST /api/classfiy/find token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 http://localhost:3000/apidoc/ 24.154 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-15 13:57:39] ::1 - POST /api/classfiy/find token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 http://localhost:3000/apidoc/ 24.430 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-15 13:57:39] ::1 - POST /api/classfiy/find token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 http://localhost:3000/apidoc/ 22.730 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-15 13:57:39] ::1 - POST /api/classfiy/find token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 http://localhost:3000/apidoc/ 22.411 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-15 13:57:40] ::1 - POST /api/classfiy/find token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 http://localhost:3000/apidoc/ 25.924 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-15 13:57:41] ::1 - POST /api/classfiy/find token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 http://localhost:3000/apidoc/ 23.182 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-15 13:57:55] ::1 - POST /api/classfiy/find token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 http://localhost:3000/apidoc/ 317.318 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-15 13:57:56] ::1 - POST /api/classfiy/find token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 http://localhost:3000/apidoc/ 24.764 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-15 13:57:58] ::1 - POST /api/classfiy/find token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 http://localhost:3000/apidoc/ 24.713 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-15 13:59:34] ::1 - POST /api/classfiy/find token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 http://localhost:3000/apidoc/ 34462.192 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-15 13:59:52] ::1 - POST /api/classify/find token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 11316.850 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 14:01:08] ::1 - POST /api/classify/find token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 43.348 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 14:01:28] ::1 - POST /api/classfiy/find token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 http://localhost:3000/apidoc/ 17837.003 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-15 14:02:25] ::1 - GET /api/classfiy/find token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 http://localhost:3000/apidoc/ 400.823 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-15 14:02:29] ::1 - POST /api/classify/find token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 34.413 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 14:02:34] ::1 - GET /api/classify/find token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 108.913 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 14:02:55] ::1 - GET /api/user/show token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 http://localhost:3000/apidoc/ 345.517 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-15 14:03:00] ::1 - GET /api/user/show token: 200 http://localhost:3000/apidoc/ 1.430 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-15 14:03:23] ::1 - GET /api/classfiy/find token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 304 http://localhost:3000/apidoc/ 22.889 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-15 14:03:23] ::1 - GET /api/classfiy/find token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 304 http://localhost:3000/apidoc/ 24.792 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-15 14:03:23] ::1 - GET /api/classfiy/find token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 304 http://localhost:3000/apidoc/ 24.283 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-15 14:03:23] ::1 - GET /api/classfiy/find token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 304 http://localhost:3000/apidoc/ 25.330 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-15 14:03:24] ::1 - GET /api/classfiy/find token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 304 http://localhost:3000/apidoc/ 22.800 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-15 14:03:24] ::1 - GET /api/classfiy/find token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 304 http://localhost:3000/apidoc/ 24.149 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-15 14:05:18] ::1 - GET /api/classify/find token:7WykXV5TKx6EuVBh3u847RNj1yeBo6xS 200 http://localhost:3000/apidoc/ 337.980 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-15 14:34:53] ::1 - GET /api/task/select token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 http://localhost:3000/apidoc/ 41.486 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-15 14:35:03] ::1 - GET /api/task/select token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 http://localhost:3000/apidoc/ 334.174 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-15 14:45:08] ::1 - GET /api/classify/find token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 342.672 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 14:45:16] ::1 - GET /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 22.769 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 14:47:22] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 118147.634 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 14:49:16] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 39641.405 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 14:53:11] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 230733.852 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 14:54:36] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 80102.421 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 15:16:57] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 754.385 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 15:18:54] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 319.639 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 15:21:40] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 507.997 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 15:23:52] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 120673.522 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 15:23:57] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 523.966 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 15:24:19] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 15809.340 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 15:24:29] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 178.634 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 15:26:22] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 314.127 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 15:26:45] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 317.514 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 15:32:25] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 319172.912 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 15:33:06] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 2660.591 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 15:34:17] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 316.083 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 15:34:38] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 3719.969 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 15:35:16] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 308.431 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 15:39:34] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 87267.675 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 15:39:58] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 3863.596 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 15:41:30] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 79639.791 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 15:41:46] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 5339.182 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 15:51:10] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 13317.706 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 15:51:36] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 22678.756 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 15:52:51] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 62161.666 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 15:53:09] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 312.968 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 15:53:16] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 378.354 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 15:53:52] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 315.340 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 15:54:14] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 28.654 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 15:55:36] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 25.387 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 15:58:02] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 90128.586 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 15:58:39] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 31398.973 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 15:59:12] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 314.931 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 15:59:38] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 7309.834 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 16:02:51] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 320.537 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 16:03:03] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 30.084 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 16:03:15] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 44.004 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 16:03:43] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 22.023 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 16:07:16] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 317.127 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 16:07:20] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 27.777 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 16:07:30] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 325.060 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 16:08:43] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 318.958 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 16:10:32] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 317.955 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 16:10:35] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 24.603 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 16:10:41] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 23.307 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 16:10:45] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 23.839 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 16:12:43] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 303.054 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 16:12:45] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 22.988 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 16:17:37] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 330.831 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 16:18:24] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 40.682 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 16:18:47] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 9831.512 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 16:20:01] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 50470.825 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 16:23:53] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 2446.813 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 16:24:13] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 45.032 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 16:24:28] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 47.419 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 16:26:12] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 43.225 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 16:27:56] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 320.638 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 16:31:48] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 314.519 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 16:32:12] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 26.881 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 16:32:38] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 316.213 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 16:33:14] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 308.156 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 16:33:45] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 24.160 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 16:35:27] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 317.573 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 16:37:21] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 12901.633 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 16:40:01] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 94599.843 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 16:56:10] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 16394.880 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 16:56:24] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 325.983 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 16:57:08] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 319.941 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 16:57:16] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 439.077 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 16:58:17] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 322.910 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 16:58:26] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 27.761 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 16:58:43] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 311.634 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 16:59:21] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 430.588 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 16:59:40] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 314.926 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 17:00:11] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 322.477 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 17:00:39] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 314.747 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 17:01:07] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 313.213 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 17:01:39] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 311.496 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 17:02:16] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 316.209 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 17:03:00] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 314.132 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 17:03:41] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 321.715 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 17:04:00] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 317.569 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 17:04:27] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 318.234 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 17:05:25] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 335.160 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 17:05:58] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 427.006 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 17:06:13] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 452.537 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 17:08:26] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 3824.114 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 17:08:41] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 54.026 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 17:09:37] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 34742.706 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 17:09:44] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 1921.123 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 17:10:11] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 10849.384 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 17:12:11] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 4199.035 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 17:12:19] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 27.528 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 17:12:37] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 322.919 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 17:13:19] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 27.574 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 17:18:37] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 308.978 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 17:20:00] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 331.348 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 17:20:15] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 142.431 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 17:20:50] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 364.860 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 17:39:21] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 405.276 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 17:41:20] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 114.157 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 17:46:23] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 409.209 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 17:48:24] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 402.698 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 17:49:43] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 60008.008 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 17:50:41] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 3684.807 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 17:52:56] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 424.309 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 17:54:17] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 418.767 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 17:55:26] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 118.655 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 17:57:15] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 313.321 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 17:57:32] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 480.083 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 17:59:03] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 28722.338 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 17:59:49] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 402.844 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 18:00:38] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 319.966 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 18:01:07] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 308.799 ms PostmanRuntime/7.11.0 
+
+[info] [2019-05-15 18:01:19] ::1 - POST /api/task/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 393.601 ms PostmanRuntime/7.11.0 
+

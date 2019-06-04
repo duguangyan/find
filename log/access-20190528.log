@@ -1,0 +1,20 @@
+[info] [2019-05-28 10:13:19] ::1 - GET /api/order/show token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 http://localhost:3000/apidoc/ 705.693 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
+[info] [2019-05-28 11:18:04] ::1 - GET /api/order/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 20317.596 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-28 11:18:24] ::1 - POST /api/order/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 19.536 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-28 11:18:54] ::1 - POST /api/order/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 307.080 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-28 11:19:49] ::1 - POST /api/order/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 11317.270 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-28 11:21:03] ::1 - POST /api/order/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 348.378 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-28 11:22:03] ::1 - POST /api/order/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 43607.339 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-28 11:22:30] ::1 - POST /api/order/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 460.030 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-28 11:23:29] ::1 - POST /api/order/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 35215.507 ms PostmanRuntime/7.13.0 
+
+[info] [2019-05-28 11:24:12] ::1 - POST /api/order/save token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 - 375.164 ms PostmanRuntime/7.13.0 
+

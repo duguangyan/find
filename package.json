@@ -1,0 +1,30 @@
+{
+  "name": "find",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "set NODE_ENV=dev&&  node ./bin/www",
+    "pro": "set NODE_ENV=pro&&  node ./bin/www"
+  },
+  "dependencies": {
+    "async": "latest",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "ejs": "~2.5.7",
+    "express": "~4.16.0",
+    "express-jwt": "^5.3.1",
+    "express-session": "^1.16.1",
+    "file-stream-rotator": "^0.4.1",
+    "http-errors": "~1.6.2",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.24.0",
+    "morgan": "~1.9.0",
+    "multer": "^1.4.1",
+    "mysql": "^2.16.0",
+    "sha1": "^1.1.1",
+    "svg-captcha": "^1.4.0"
+  },
+  "devDependencies": {
+    "utility": "^1.16.1"
+  }
+}
