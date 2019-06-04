@@ -95,7 +95,7 @@ app.all('*', function(req, res, next) {
 // 登录拦截器
 app.use(async function (req, res, next) {
     // 放行login和save请求
-    if (req.url.indexOf('/api/user/login')== -1  && req.url.indexOf('/api/user/save') == -1 && req.url.indexOf('/api/captcha/get-img-verify') == -1 && req.url.indexOf('/public/upload') == -1) {
+    if (req.url.indexOf('/')== -1 &&req.url.indexOf('/api/user/login')== -1  && req.url.indexOf('/api/user/save') == -1 && req.url.indexOf('/api/captcha/get-img-verify') == -1 && req.url.indexOf('/public/upload') == -1) {
         // 获取请求头token
         let token = req.headers.token;
 
