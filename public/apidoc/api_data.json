@@ -2442,7 +2442,7 @@
     },
     "sampleRequest": [
       {
-        "url": "http://find.du-u.top/api/captcha/get-img-verify"
+        "url": "http://localhost/api/captcha/get-img-verify"
       }
     ],
     "version": "1.0.0",

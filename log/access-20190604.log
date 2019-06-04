@@ -178,3 +178,5 @@
 
 [info] [2019-06-04 18:05:02] ::1 - GET /apidoc/api/address/show token:2Wd5wvvxDYUfXrYHbPZh6nTnsF9P8h3P7fh0Il8WT9xavXfOCTK8yyPQSLxl6EaBjYNLZZbCZmt1A8nIlcP0oD3OeIBRTVJG3FdywuPkzxSS 200 http://localhost:3001/apidoc/ 7.421 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
 
+[info] [2019-06-04 18:25:56] ::1 - OPTIONS /api/address/show token:undefined 200 http://find.du-u.top/apidoc/ 6.982 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36 
+
