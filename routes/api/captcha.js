@@ -22,7 +22,7 @@ let router = express.Router();
  *      },
  *      "msg"  : "成功"   // 提示信息
  *  }
- * @apiSampleRequest http://find.du-u.top/api/captcha/get-img-verify
+ * @apiSampleRequest http://localhost/api/captcha/get-img-verify
  * @apiVersion 1.0.0
  */
 router.get('/get-img-verify', function (req, res) {
