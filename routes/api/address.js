@@ -120,7 +120,7 @@ router.get('/show',asyncHandler(async (req, res, next) => {
  *       }
  *      "msg":"成功"   // 提示信息
  *  }
- * @apiSampleRequest http://find.du-u.top/api/address/selectById
+ * @apiSampleRequest http://nd.du1888.cn/api/address/selectById
  * @apiVersion 1.0.0
  */
 router.get('/selectById',asyncHandler(async (req, res, next) => {
@@ -154,7 +154,7 @@ router.get('/selectById',asyncHandler(async (req, res, next) => {
  *      "data" : {id:13} // 返回删除的地址ID
  *      "msg"  :"成功"   // 提示信息
  *  }
- * @apiSampleRequest http://find.du-u.top/api/address/deleteById
+ * @apiSampleRequest http://nd.du1888.cn/api/address/deleteById
  * @apiVersion 1.0.0
  */
 router.get('/deleteById',asyncHandler(async (req, res, next) => {
@@ -204,7 +204,7 @@ router.get('/deleteById',asyncHandler(async (req, res, next) => {
  *       }
  *      "msg":"成功"   // 提示信息
  *  }
- * @apiSampleRequest http://find.du-u.top/api/address/selectByUid
+ * @apiSampleRequest http://nd.du1888.cn/api/address/selectByUid
  * @apiVersion 1.0.0
  */
 router.get('/selectByUid',asyncHandler(async (req, res, next) => {
@@ -271,7 +271,7 @@ router.get('/selectByUid',asyncHandler(async (req, res, next) => {
  *       }
  *      "msg":"成功"   // 提示信息
  *  }
- * @apiSampleRequest http://find.du-u.top/api/address/save
+ * @apiSampleRequest http://nd.du1888.cn/api/address/save
  * @apiVersion 1.0.0
  */
 router.post('/save',asyncHandler(async (req, res, next) => {
@@ -341,7 +341,7 @@ router.post('/save',asyncHandler(async (req, res, next) => {
  *       }
  *      "msg":"成功"   // 提示信息
  *  }
- * @apiSampleRequest http://find.du-u.top/api/address/updateById
+ * @apiSampleRequest http://nd.du1888.cn/api/address/updateById
  * @apiVersion 1.0.0
  */
 router.post('/updateById',asyncHandler(async (req, res, next) => {
@@ -380,7 +380,7 @@ router.post('/updateById',asyncHandler(async (req, res, next) => {
  *      "data" : 1     // 修改的地址ID
  *      "msg":"成功"    // 提示信息
  *  }
- * @apiSampleRequest http://find.du-u.top/api/address/updateByIsDefault
+ * @apiSampleRequest http://nd.du1888.cn/api/address/updateByIsDefault
  * @apiVersion 1.0.0
  */
 router.post('/updateByIsDefault',asyncHandler(async (req, res, next) => {

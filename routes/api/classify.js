@@ -139,7 +139,7 @@ const asyncHandler = fn => (req, res, next) =>
     },
  *      "msg"  : "成功"   // 提示信息
  *  }
- * @apiSampleRequest http://find.du-u.top/api/classify/find
+ * @apiSampleRequest http://nd.du1888.cn/api/classify/find
  * @apiVersion 1.0.0
  */
 router.get('/find',asyncHandler(async (req, res, next) => {
@@ -181,7 +181,7 @@ router.get('/find',asyncHandler(async (req, res, next) => {
                 root.children.push(nodes);
             }
         }
-        
+
         return root;
     }
     let classify = generateTreeNode(1);

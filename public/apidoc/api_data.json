@@ -61,7 +61,7 @@
     },
     "sampleRequest": [
       {
-        "url": "http://find.du-u.top/api/address/deleteById"
+        "url": "http://nd.du1888.cn/api/address/deleteById"
       }
     ],
     "version": "1.0.0",
@@ -208,7 +208,7 @@
     },
     "sampleRequest": [
       {
-        "url": "http://find.du-u.top/api/address/save"
+        "url": "http://nd.du1888.cn/api/address/save"
       }
     ],
     "version": "1.0.0",
@@ -277,7 +277,7 @@
     },
     "sampleRequest": [
       {
-        "url": "http://find.du-u.top/api/address/selectById"
+        "url": "http://nd.du1888.cn/api/address/selectById"
       }
     ],
     "version": "1.0.0",
@@ -333,7 +333,7 @@
     },
     "sampleRequest": [
       {
-        "url": "http://find.du-u.top/api/address/selectByUid"
+        "url": "http://nd.du1888.cn/api/address/selectByUid"
       }
     ],
     "version": "1.0.0",
@@ -558,7 +558,7 @@
     },
     "sampleRequest": [
       {
-        "url": "http://find.du-u.top/api/address/updateById"
+        "url": "http://nd.du1888.cn/api/address/updateById"
       }
     ],
     "version": "1.0.0",
@@ -627,7 +627,7 @@
     },
     "sampleRequest": [
       {
-        "url": "http://find.du-u.top/api/address/updateByIsDefault"
+        "url": "http://nd.du1888.cn/api/address/updateByIsDefault"
       }
     ],
     "version": "1.0.0",
@@ -683,7 +683,7 @@
     },
     "sampleRequest": [
       {
-        "url": "http://find.du-u.top/api/classify/find"
+        "url": "http://nd.du1888.cn/api/classify/find"
       }
     ],
     "version": "1.0.0",
@@ -745,14 +745,14 @@
       "examples": [
         {
           "title": "Success-Response:",
-          "content": "{\n    \"code\" : \"0\",  // 状态码\n    \"data\" : \"http://find.du-u.top/public/upload/IYjfYFfCewPVusQC1557382532311.jpg\"  // 图片路径\n    \"msg\"  : \"成功\"   // 提示信息\n}",
+          "content": "{\n    \"code\" : \"0\",  // 状态码\n    \"data\" : \"http://nd.du1888.cn/public/upload/IYjfYFfCewPVusQC1557382532311.jpg\"  // 图片路径\n    \"msg\"  : \"成功\"   // 提示信息\n}",
           "type": "json"
         }
       ]
     },
     "sampleRequest": [
       {
-        "url": "http://find.du-u.top/api/common/load"
+        "url": "http://nd.du1888.cn/api/common/load"
       }
     ],
     "version": "1.0.0",
@@ -821,7 +821,7 @@
     },
     "sampleRequest": [
       {
-        "url": "http://find.du-u.top/api/order/delete"
+        "url": "http://nd.du1888.cn/api/order/delete"
       }
     ],
     "version": "1.0.0",
@@ -898,7 +898,7 @@
     },
     "sampleRequest": [
       {
-        "url": "http://find.du-u.top/api/order/save"
+        "url": "http://nd.du1888.cn/api/order/save"
       }
     ],
     "filename": "routes/api/order.js",
@@ -959,14 +959,14 @@
       "examples": [
         {
           "title": "Success-Response:",
-          "content": "{\n    \"code\" : \"0\",  // 状态码\n     \"data\": [\n           {\n               \"id\": 1,\n               \"uid\": 1,\n               \"cid\": 1，2，3,\n               \"desc\": \"描述描述描述描述描述描述\",\n               \"find_type\": 1,\n               \"task_type\": 1,\n               \"find_type_mode\": 1,\n               \"task_address_id\": 1,\n               \"imgs\": \"http://find.du-u.top/public/upload/IYjfYFfCewPVusQC1557382532311.jpg\",\n               \"checkType\": \"面料>皮料>马皮料\"\n           }\n       ],\n    \"msg\"  : \"成功\"   // 提示信息\n}",
+          "content": "{\n    \"code\" : \"0\",  // 状态码\n     \"data\": [\n           {\n               \"id\": 1,\n               \"uid\": 1,\n               \"cid\": 1，2，3,\n               \"desc\": \"描述描述描述描述描述描述\",\n               \"find_type\": 1,\n               \"task_type\": 1,\n               \"find_type_mode\": 1,\n               \"task_address_id\": 1,\n               \"imgs\": \"http://nd.du1888.cn/public/upload/IYjfYFfCewPVusQC1557382532311.jpg\",\n               \"checkType\": \"面料>皮料>马皮料\"\n           }\n       ],\n    \"msg\"  : \"成功\"   // 提示信息\n}",
           "type": "json"
         }
       ]
     },
     "sampleRequest": [
       {
-        "url": "http://find.du-u.top/api/order/select"
+        "url": "http://nd.du1888.cn/api/order/select"
       }
     ],
     "version": "1.0.0",
@@ -1037,14 +1037,14 @@
       "examples": [
         {
           "title": "Success-Response:",
-          "content": "{\n    \"code\" : \"0\",  // 状态码\n     \"data\": [\n           {\n               \"id\": 1,\n               \"uid\": 1,\n               \"cid\": 1，2，3,\n               \"desc\": \"描述描述描述描述描述描述\",\n               \"find_type\": 1,\n               \"task_type\": 1,\n               \"find_type_mode\": 1,\n               \"task_address_id\": 1,\n               \"imgs\": \"http://find.du-u.top/public/upload/IYjfYFfCewPVusQC1557382532311.jpg\",\n               \"checkType\": \"面料>皮料>马皮料\"\n           }\n       ],\n    \"msg\"  : \"成功\"   // 提示信息\n}",
+          "content": "{\n    \"code\" : \"0\",  // 状态码\n     \"data\": [\n           {\n               \"id\": 1,\n               \"uid\": 1,\n               \"cid\": 1，2，3,\n               \"desc\": \"描述描述描述描述描述描述\",\n               \"find_type\": 1,\n               \"task_type\": 1,\n               \"find_type_mode\": 1,\n               \"task_address_id\": 1,\n               \"imgs\": \"http://nd.du1888.cn/public/upload/IYjfYFfCewPVusQC1557382532311.jpg\",\n               \"checkType\": \"面料>皮料>马皮料\"\n           }\n       ],\n    \"msg\"  : \"成功\"   // 提示信息\n}",
           "type": "json"
         }
       ]
     },
     "sampleRequest": [
       {
-        "url": "http://find.du-u.top/api/order/show"
+        "url": "http://nd.du1888.cn/api/order/show"
       }
     ],
     "version": "1.0.0",
@@ -1169,7 +1169,7 @@
     },
     "sampleRequest": [
       {
-        "url": "http://find.du-u.top/api/order/updateById"
+        "url": "http://nd.du1888.cn/api/order/updateById"
       }
     ],
     "version": "1.0.0",
@@ -1238,7 +1238,7 @@
     },
     "sampleRequest": [
       {
-        "url": "http://find.du-u.top/api/order/updateByStatus"
+        "url": "http://nd.du1888.cn/api/order/updateByStatus"
       }
     ],
     "version": "1.0.0",
@@ -1307,7 +1307,7 @@
     },
     "sampleRequest": [
       {
-        "url": "http://find.du-u.top/api/task/delete"
+        "url": "http://nd.du1888.cn/api/task/delete"
       }
     ],
     "version": "1.0.0",
@@ -1433,7 +1433,7 @@
     },
     "sampleRequest": [
       {
-        "url": "http://find.du-u.top/api/task/save"
+        "url": "http://nd.du1888.cn/api/task/save"
       }
     ],
     "filename": "routes/api/task.js",
@@ -1481,14 +1481,14 @@
       "examples": [
         {
           "title": "Success-Response:",
-          "content": "{\n    \"code\" : \"0\",  // 状态码\n     \"data\": [\n           {\n               \"id\": 1,\n               \"uid\": 1,\n               \"cid\": 1，2，3,\n               \"desc\": \"描述描述描述描述描述描述\",\n               \"find_type\": 1,\n               \"task_type\": 1,\n               \"find_type_mode\": 1,\n               \"task_address_id\": 1,\n               \"imgs\": \"http://find.du-u.top/public/upload/IYjfYFfCewPVusQC1557382532311.jpg\",\n               \"checkType\": \"面料>皮料>马皮料\"\n           }\n       ],\n    \"msg\"  : \"成功\"   // 提示信息\n}",
+          "content": "{\n    \"code\" : \"0\",  // 状态码\n     \"data\": [\n           {\n               \"id\": 1,\n               \"uid\": 1,\n               \"cid\": 1，2，3,\n               \"desc\": \"描述描述描述描述描述描述\",\n               \"find_type\": 1,\n               \"task_type\": 1,\n               \"find_type_mode\": 1,\n               \"task_address_id\": 1,\n               \"imgs\": \"http://nd.du1888.cn/public/upload/IYjfYFfCewPVusQC1557382532311.jpg\",\n               \"checkType\": \"面料>皮料>马皮料\"\n           }\n       ],\n    \"msg\"  : \"成功\"   // 提示信息\n}",
           "type": "json"
         }
       ]
     },
     "sampleRequest": [
       {
-        "url": "http://find.du-u.top/api/task/select"
+        "url": "http://nd.du1888.cn/api/task/select"
       }
     ],
     "version": "1.0.0",
@@ -1559,14 +1559,14 @@
       "examples": [
         {
           "title": "Success-Response:",
-          "content": "{\n    \"code\" : \"0\",  // 状态码\n     \"data\": [\n           {\n               \"id\": 1,\n               \"uid\": 1,\n               \"cid\": 1，2，3,\n               \"desc\": \"描述描述描述描述描述描述\",\n               \"find_type\": 1,\n               \"task_type\": 1,\n               \"find_type_mode\": 1,\n               \"task_address_id\": 1,\n               \"imgs\": \"http://find.du-u.top/public/upload/IYjfYFfCewPVusQC1557382532311.jpg\",\n               \"checkType\": \"面料>皮料>马皮料\"\n           }\n       ],\n    \"msg\"  : \"成功\"   // 提示信息\n}",
+          "content": "{\n    \"code\" : \"0\",  // 状态码\n     \"data\": [\n           {\n               \"id\": 1,\n               \"uid\": 1,\n               \"cid\": 1，2，3,\n               \"desc\": \"描述描述描述描述描述描述\",\n               \"find_type\": 1,\n               \"task_type\": 1,\n               \"find_type_mode\": 1,\n               \"task_address_id\": 1,\n               \"imgs\": \"http://nd.du1888.cn/public/upload/IYjfYFfCewPVusQC1557382532311.jpg\",\n               \"checkType\": \"面料>皮料>马皮料\"\n           }\n       ],\n    \"msg\"  : \"成功\"   // 提示信息\n}",
           "type": "json"
         }
       ]
     },
     "sampleRequest": [
       {
-        "url": "http://find.du-u.top/api/task/show"
+        "url": "http://nd.du1888.cn/api/task/show"
       }
     ],
     "version": "1.0.0",
@@ -1691,7 +1691,7 @@
     },
     "sampleRequest": [
       {
-        "url": "http://find.du-u.top/api/task/updateById"
+        "url": "http://nd.du1888.cn/api/task/updateById"
       }
     ],
     "version": "1.0.0",
@@ -1760,7 +1760,7 @@
     },
     "sampleRequest": [
       {
-        "url": "http://find.du-u.top/api/user/delete"
+        "url": "http://nd.du1888.cn/api/user/delete"
       }
     ],
     "version": "1.0.0",
@@ -1836,7 +1836,7 @@
     },
     "sampleRequest": [
       {
-        "url": "http://find.du-u.top/api/user/findByUnce"
+        "url": "http://nd.du1888.cn/api/user/findByUnce"
       }
     ],
     "version": "1.0.0",
@@ -1899,7 +1899,7 @@
     },
     "sampleRequest": [
       {
-        "url": "http://find.du-u.top/api/user/login"
+        "url": "http://nd.du1888.cn/api/user/login"
       }
     ],
     "version": "1.0.0",
@@ -1955,7 +1955,7 @@
     },
     "sampleRequest": [
       {
-        "url": "http://find.du-u.top/api/user/save"
+        "url": "http://nd.du1888.cn/api/user/save"
       }
     ],
     "version": "1.0.0",
@@ -2033,7 +2033,7 @@
     },
     "sampleRequest": [
       {
-        "url": "http://find.du-u.top/api/user/show"
+        "url": "http://nd.du1888.cn/api/user/show"
       }
     ],
     "version": "1.0.0",
@@ -2123,7 +2123,7 @@
     },
     "sampleRequest": [
       {
-        "url": "http://find.du-u.top/api/user/update"
+        "url": "http://nd.du1888.cn/api/user/update"
       }
     ],
     "version": "1.0.0",
@@ -2344,7 +2344,7 @@
     },
     "sampleRequest": [
       {
-        "url": "http://find.du-u.top/api/user/updateByPassword"
+        "url": "http://nd.du1888.cn/api/user/updateByPassword"
       }
     ],
     "version": "1.0.0",

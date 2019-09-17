@@ -41,10 +41,10 @@ const asyncHandler = fn => (req, res, next) =>
  * @apiSuccessExample {json} Success-Response:
  *  {
  *      "code" : "0",  // 状态码
- *      "data" : "http://find.du-u.top/public/upload/IYjfYFfCewPVusQC1557382532311.jpg"  // 图片路径
+ *      "data" : "http://nd.du1888.cn/public/upload/IYjfYFfCewPVusQC1557382532311.jpg"  // 图片路径
  *      "msg"  : "成功"   // 提示信息
  *  }
- * @apiSampleRequest http://find.du-u.top/api/common/load
+ * @apiSampleRequest http://nd.du1888.cn/api/common/load
  * @apiVersion 1.0.0
  */
 router.post('/load',asyncHandler(async (req, res, next) => {

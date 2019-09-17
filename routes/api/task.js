@@ -48,13 +48,13 @@ const asyncHandler = fn => (req, res, next) =>
                 "task_type": 1,
                 "find_type_mode": 1,
                 "task_address_id": 1,
-                "imgs": "http://find.du-u.top/public/upload/IYjfYFfCewPVusQC1557382532311.jpg",
+                "imgs": "http://nd.du1888.cn/public/upload/IYjfYFfCewPVusQC1557382532311.jpg",
                 "checkType": "面料>皮料>马皮料"
             }
         ],
  *      "msg"  : "成功"   // 提示信息
  *  }
- * @apiSampleRequest http://find.du-u.top/api/task/show
+ * @apiSampleRequest http://nd.du1888.cn/api/task/show
  * @apiVersion 1.0.0
  */
 router.get('/show',asyncHandler(async (req, res, next) => {
@@ -88,13 +88,13 @@ router.get('/show',asyncHandler(async (req, res, next) => {
                 "task_type": 1,
                 "find_type_mode": 1,
                 "task_address_id": 1,
-                "imgs": "http://find.du-u.top/public/upload/IYjfYFfCewPVusQC1557382532311.jpg",
+                "imgs": "http://nd.du1888.cn/public/upload/IYjfYFfCewPVusQC1557382532311.jpg",
                 "checkType": "面料>皮料>马皮料"
             }
         ],
  *      "msg"  : "成功"   // 提示信息
  *  }
- * @apiSampleRequest http://find.du-u.top/api/task/select
+ * @apiSampleRequest http://nd.du1888.cn/api/task/select
  * @apiVersion 1.0.0
  */
 router.get('/select',asyncHandler(async (req, res, next) => {
@@ -121,7 +121,7 @@ router.get('/select',asyncHandler(async (req, res, next) => {
  *       "data": [],
  *      "msg"  : "成功"   // 提示信息
  *  }
- * @apiSampleRequest http://find.du-u.top/api/task/delete
+ * @apiSampleRequest http://nd.du1888.cn/api/task/delete
  * @apiVersion 1.0.0
  */
 router.post('/delete',asyncHandler(async (req, res, next) => {
@@ -166,7 +166,7 @@ router.post('/delete',asyncHandler(async (req, res, next) => {
  *      "data": {id:[12132]},  // 返回任务ID
  *      "msg"  : "成功"   // 提示信息
  *  }
- * @apiSampleRequest http://find.du-u.top/api/task/save
+ * @apiSampleRequest http://nd.du1888.cn/api/task/save
  * @apiVersion 1.0.0
  */
 router.post('/save',asyncHandler(async (req, res, next) => {
@@ -308,7 +308,7 @@ router.post('/save',asyncHandler(async (req, res, next) => {
  *      "data": {id:[12132]},  // 返回任务ID
  *      "msg"  : "成功"   // 提示信息
  *  }
- * @apiSampleRequest http://find.du-u.top/api/task/updateById
+ * @apiSampleRequest http://nd.du1888.cn/api/task/updateById
  * @apiVersion 1.0.0
  */
 router.post('/updateById',asyncHandler(async (req, res, next) => {

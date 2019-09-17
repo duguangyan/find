@@ -54,7 +54,7 @@ const asyncHandler = fn => (req, res, next) =>
  *       }
  *      "msg":"成功"   // 提示信息
  *  }
- * @apiSampleRequest http://find.du-u.top/api/user/show
+ * @apiSampleRequest http://nd.du1888.cn/api/user/show
  * @apiVersion 1.0.0
  */
 router.get('/show',asyncHandler(async (req, res, next) => {
@@ -99,7 +99,7 @@ router.get('/show',asyncHandler(async (req, res, next) => {
  *       }
  *      "msg":"成功"   // 提示信息
  *  }
- * @apiSampleRequest http://find.du-u.top/api/user/findByUnce
+ * @apiSampleRequest http://nd.du1888.cn/api/user/findByUnce
  * @apiVersion 1.0.0
  */
 router.get('/findByUnce',asyncHandler(async (req, res, next) => {
@@ -130,7 +130,7 @@ router.get('/findByUnce',asyncHandler(async (req, res, next) => {
  *      "data" : null
  *      "msg":"成功"   // 提示信息
  *  }
- * @apiSampleRequest http://find.du-u.top/api/user/save
+ * @apiSampleRequest http://nd.du1888.cn/api/user/save
  * @apiVersion 1.0.0
  */
 router.post('/save',asyncHandler(async (req, res, next) => {
@@ -186,7 +186,7 @@ router.post('/save',asyncHandler(async (req, res, next) => {
  *      "data" : null
  *      "msg":"成功"   // 提示信息
  *  }
- * @apiSampleRequest http://find.du-u.top/api/user/update
+ * @apiSampleRequest http://nd.du1888.cn/api/user/update
  * @apiVersion 1.0.0
  */
 router.post('/update',asyncHandler(async (req, res, next) => {
@@ -228,7 +228,7 @@ router.post('/update',asyncHandler(async (req, res, next) => {
  *      "data" : null
  *      "msg":"成功"   // 提示信息
  *  }
- * @apiSampleRequest http://find.du-u.top/api/user/delete
+ * @apiSampleRequest http://nd.du1888.cn/api/user/delete
  * @apiVersion 1.0.0
  */
 router.post('/delete',asyncHandler(async (req, res, next) => {
@@ -271,7 +271,7 @@ router.post('/delete',asyncHandler(async (req, res, next) => {
  *      }
  *      "msg":"成功"   // 提示信息
  *  }
- * @apiSampleRequest http://find.du-u.top/api/user/login
+ * @apiSampleRequest http://nd.du1888.cn/api/user/login
  * @apiVersion 1.0.0
  */
 router.post('/login',asyncHandler(async (req, res, next) => {
@@ -326,7 +326,7 @@ router.post('/login',asyncHandler(async (req, res, next) => {
  *      "data" : 153   // 修改密码的用户ID
  *      "msg":"成功"    // 提示信息
  *  }
- * @apiSampleRequest http://find.du-u.top/api/user/updateByPassword
+ * @apiSampleRequest http://nd.du1888.cn/api/user/updateByPassword
  * @apiVersion 1.0.0
  */
 router.post('/updateByPassword',asyncHandler(async (req, res, next) => {
