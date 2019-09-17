@@ -62,7 +62,7 @@ const asyncHandler = fn => (req, res, next) =>
  *       }
  *      "msg":"成功"   // 提示信息
  *  }
- * @apiSampleRequest http://find.du-u.top/api/address/show
+ * @apiSampleRequest http://nd.du1888.cn/api/address/show
  * @apiVersion 1.0.0
  */
 router.get('/show',asyncHandler(async (req, res, next) => {
