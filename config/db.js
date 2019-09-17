@@ -4,24 +4,24 @@ console.log(process.env.NODE_ENV);
 var data;
 if (process.env.NODE_ENV === 'dev') {
     data = {
-        host:"120.77.221.28",
-        user:"jv_du_u_top",
+        host:"106.54.40.29",
+        user:"nd_du1888_cn",
         password:"duguangyan2010",
-        database:"jv_du_u_top"
+        database:"nd_du1888_cn"
     }
 } else if(process.env.NODE_ENV === 'pro')  {
     data = {
-        host:"120.77.221.28",
-        user:"nd_du_u_top",
+        host:"106.54.40.29",
+        user:"nd_du1888_cn",
         password:"duguangyan2010",
-        database:"nd_du_u_top"
+        database:"nd_du1888_cn"
     }
 }else{
     data = {
-        host:"120.77.221.28",
-        user:"jv_du_u_top",
+        host:"106.54.40.29",
+        user:"nd_du1888_cn",
         password:"duguangyan2010",
-        database:"jv_du_u_top"
+        database:"nd_du1888_cn"
     }
 }
 
