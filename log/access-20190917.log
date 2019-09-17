@@ -1,0 +1,12 @@
+[info] [2019-09-17 13:40:11] ::1 - GET /api/address/selectByUid token:undefined 200 - 211.349 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36 
+
+[info] [2019-09-17 13:40:12] ::1 - GET /favicon.ico token:undefined 200 http://localhost:3001/api/address/selectByUid 1.478 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36 
+
+[info] [2019-09-17 13:40:31] ::1 - GET /api/address/show token:undefined 200 - 184.973 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36 
+
+[info] [2019-09-17 13:40:31] ::1 - GET /favicon.ico token:undefined 304 http://localhost:3001/api/address/show 0.565 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36 
+
+[info] [2019-09-17 14:15:32] ::1 - GET /favicon.ico token:undefined 304 http://localhost:3001/api/address/selectByUid 2.638 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36 
+
+[info] [2019-09-17 14:15:37] ::1 - GET /favicon.ico token:undefined 304 http://localhost:3001/api/address/selectByUid 0.615 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36 
+

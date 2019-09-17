@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06bf9e92-001d-4a42-8025-fc9396cf2b97" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apidoc.json" beforeDir="false" afterPath="$PROJECT_DIR$/apidoc.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/db.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/db.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/api/address.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api/address.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/access-20190917.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/access-20190917.log" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -368,12 +365,12 @@
       <workItem from="1559634570925" duration="6121000" />
       <workItem from="1559728343688" duration="703000" />
       <workItem from="1560145315669" duration="22000" />
-      <workItem from="1568691904313" duration="3378000" />
+      <workItem from="1568691904313" duration="3627000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="174755000" />
+    <option name="totallyTimeSpent" value="175004000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -386,17 +383,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7304189" visible="true" weight="0.23778072" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.72804534" visible="true" weight="0.23778072" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32905984" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info id="npm" order="2" sideWeight="0.26958105" side_tool="true" visible="true" weight="0.23778072" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2168331" />
+      <window_info id="npm" order="2" sideWeight="0.2719547" side_tool="true" visible="true" weight="0.23778072" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2168331" />
       <window_info id="Structure" order="1" sideWeight="0.24928775" side_tool="true" weight="0.12879789" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.25356126" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.49643368" />
       <window_info id="Favorites" order="2" sideWeight="0.24951644" side_tool="true" weight="0.24966975" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.59343797" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
