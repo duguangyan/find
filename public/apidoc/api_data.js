@@ -411,7 +411,7 @@ define({ "api": [
     },
     "sampleRequest": [
       {
-        "url": "http://find.du-u.top/api/address/show"
+        "url": "http://nd.du1888.cn/api/address/show"
       }
     ],
     "version": "1.0.0",

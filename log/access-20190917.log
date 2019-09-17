@@ -1,0 +1,4 @@
+[info] [2019-09-17 14:48:45] ::1 - GET /api/address/show token:undefined 200 - 296.029 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36 
+
+[info] [2019-09-17 14:48:46] ::1 - GET /favicon.ico token:undefined 304 http://localhost:3001/api/address/show 1.760 ms Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36 
+
